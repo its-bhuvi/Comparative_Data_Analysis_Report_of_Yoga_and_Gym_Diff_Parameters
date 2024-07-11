@@ -1,0 +1,209 @@
+ Nervous: 		Feeling nervous, anxious or on edge
+ UncontrollableWorry:	Not being able to stop or control worrying
+ ExcessiveWorry: 	Worrying too much about different things
+ DifficultyRelaxing: 	Trouble relaxing
+ Restlessness: 		Being so restless that it is hard to sit still
+ Irritability:		Becoming easily annoyed or irritable
+Fearfulness: 		Feeling afraid as if something awful might happen
+-------------------------------------------------------------------------------------------------------------------------------------
+
+SKINCHIK - Chicken or turkey, with the skin(serving)	
+NOSKINCH - Chicken or turkey, no skin (serving)	
+LIVER - Liver, brains, kidneys, sweetbreads (serving)	
+HOTDOG - Hot dog, frankfurter (1)	
+BACON - Bacon (2 slices)	
+PROCESSD - Processed luncheon meats (sausage, salami, bologna, liverwurst, packaged beef or chicken) (piece or slice)	
+CANNED - Canned meats like deviled beef, hash, chili (serving)	
+HAMBURG - Hamburger (1) 	
+BEEF - Beef - chuck, ribs, steak (serving) 	
+OTHRBEEF - Other beef (round, rump, very lean (serving) 	
+VEAL - Veal (serving) 	
+LAMB - Lamb (roast, chops, etc.) (serving) 	
+PORK - Pork (roast, chops, etc) (serving)	
+STEW - Beef, pork or lamb as a sandwich or mixed dish (stew, casserole, etc.) (serving) 	
+CANTUNA - Canned tuna fish (serving)	
+SALMON - Dark meat fish, such as mackerel, salmon, sardines, bluefish, swordfish (serving)	
+LOBSTER - Shrimp, lobster, scallops as a main dish (serving) 	
+OTHRFISH - Other fish (serving) 	
+EGGS - Eggs (1)	
+SOYNUT - Gluten, soy nut or other vegetarian products no used in mixed dishes (serving)	
+VEGROAST - Homemade vegetarian roasts, casseroles, etc 	
+VEGBURGR - Vegetarian links or burgers	
+	- Mixed cheese and tomato dish - pizza, lasagna, etc. (serving)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+SKIMMILK - Skim milk or skim buttermilk, powder skim milk (cup)	
+LOWFMILK - Low fat (1-2%) milk (glass)	
+WHOLEMLK - Whole milk (cup)	
+SOYMILK - Imitation or soy milk (cup)	
+CREAM - Half and half, evaporated milk, cream, sour cream (on fruit, cereal, in coffee, etc. (oz)	
+NONDAIRY - Non-dairy creamer (topping or dry coffee creamer) (tsp)	
+YOGURTSK - Yogurt from skim milk (cup)	
+YOGWHOLE - Yogurt from whole milk (cup)	
+SHERBET - Sherbet or ice milk ( ½ cup)	
+ICECREAM - Ice cream (½ cup)	
+CHESWHOL - Whole milk cottage or ricotta cheese (½ cup)	
+CHESLOWF - Low fat cheeses such as skim cottage, skim mozzarella, etc. (slice or oz.)	
+CHESOTHR - Other hard cheese (e.g. American, cheddar, etc.) (slice or oz.)	
+STIKMARG - Margarine, stick form added to breads or foods: exclude use in cooking(tsp)	
+TUBMARG - Margarine, tub form added to breads or foods; exclude use in cooking (tsp)	
+BUTTER - Butter (added to food or bread: excluded use in cooking) (tsp)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+APPLE - Fresh apple or pear (1)	
+CIDER - Apple juice or cider (small glass)	
+APPLSAUC - Applesauce (½ cup)	
+ORANGE - Orange or tangerine (1)	
+ORNGJUIC - Orange juice (small glass)	
+GRAPFRUT - Grapefruit (½) or Grapefruit juice (small glass)	
+PEACHES - Peaches, apricots, plums or nectarines (fresh or canned) (1 pc. Or ½ cup)	
+RAISINS - Raisins (1 oz. or small pack) or grapes (small bunch)	
+PRUNES - Prunes or dry apricots (½ cup)	
+DATES - Dates or figs (½ cup)	
+BANANAS - Bananas (1)	
+STRAWBER - Strawberries- fresh, frozen or canned (½ cup)	
+BLACKBER - Blackberries, blueberries, raspberries-fresh, frozen or canned (½ cup)	
+MELON - Cantaloupe or honeydew melon (small slice)	
+WATERMEL - Watermelon (1 slice)	
+PINEAPPL - Pineapple- fresh or canned (½ cup)	
+CHERRIES - Cherries- fresh or canned (½ cup)	
+PAPAYAS - Papayas (½ cup)	
+AVOCADOS - Avocados (¼)
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+GREENBEN - Green or string beans or asparagus (½ cup)	
+BROCCOLI - Broccoli (½ cup)	
+CABBAGE - Cabbage, cole slaw or sauerkraut (½ cup)	
+CAULFLWR - Cauliflower (½ cup)	
+BRUSELSP - Brussels sprouts (½ cup)	
+CARROTS	- Carrots (1 whole or ½ cup cooked)"	
+CAROTJUC - Carrot juice (small glass)	
+CORN - Corn (ear or ½ cup frozen, fresh or canned)	
+SPINACH - Spinach Raw or cooked (½ cup)	
+PEPPERS - Green or red peppers (½ cup)	
+KALE - Kale, mustard, chard, beet or other greens (½ cup)	
+ICEBERG - Iceberg or head lettuce (cup)	
+ROMAINE - Escarole, romaine, watercress or leaf lettuce (cup)	
+PEAS - Peas, lima beans or pea pods (½ cup)	
+WINTERSQ - Yellow (winter) squash or pumpkin (½ cup)	
+ZUCCHINI - Eggplant, zucchini, other summer squash (½ cup)	
+YAMS - Yams and sweet potatoes ( ½ cup)	
+TOMATOES - Tomatoes (1 or ½ cup)	
+TOMJUICE - Tomato juice (small glass)	
+CHILSAUC - Red chili sauce (tbsp)	
+TOFU - Tofu or soy bean curd (½ cup)	
+LENTILS - Lentils, chick peas, kidney, pinto or other beans- plain or baked, not used in casseroles, soups, etc (½ cup)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+PIEHOME - Pie, homemade (slice)	
+PIEREADY - Pie, ready made (slice)	
+CAKEHOME - Cake, home baked (slice)	
+CAKREADY - Cake, ready made (slice)	
+COOKIESH - Cookies, home baked (1)	
+COOKIESR - Cookies, ready baked (1)	
+BROWNIES - Brownies (1)	
+DOUGHNUT - Doughnut (1)	
+SWEETROL - Sweet roll, coffee cake, pastry, home baked (serving)	
+CRACKERS - Crackers, all kinds (serving)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+CEREAL - Refined uncooked cereals like cornflakes, cheerios (½ cup)	
+OATMEALR - Refined hot cereals like cream of wheat, instant oatmeal, etc (½ cup)	
+BRANU - Unrefined cold cereals like all bran, alpen, granola, shredded wheat, etc (½ cup)	
+OATMEALU - Unrefined cooked cereals like oatmeal, ralston, cracked wheat, etc. (½ cup)	
+ENRBREAD - Enriched breads like white, sourdough, french, italian, corn or "unbleached flour" breads (slice)	
+WHOLGRBR - Whole grain breads like 1oo% whole wheat, stoneground whole wheat, sprouted wheat, 7 grain bread etc. (slice)	
+OTHRBRED - Other breads- cracked, wheat, rye and other partial whole grains (slice)	
+COMROLLS - Commercial dinner rolls, biscuits, hot dog or hamburger rolls, buns, muffins. etc (1)	
+HOMEROLS - Home made rolls, biscuits, muffins, etc (1)	
+CHIPS - Potato chips, fritos, tortilla chips, pretzels, etc. (oz.)	
+FRNCHFRY - French fried potatoes	
+POTATOSK - Potatoes with skins eaten (1)	
+POTNOSKN - Potatoes without skins except french fries (½ cup)	
+TURNIPS - Parsnips and turnips (½ cup)	
+PANCAKES - Pancakes or waffles or french toast (slice)	
+BRWNRICE - Brown rice (cup)	
+WHITRICE - White rice (cup)	
+PASTA - Pasta (spaghetti, noodles, etc) (cup)	
+OTHRGRAN - Other grains, e.g. bulger, kasha, barley, couscous (cup)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+COFFEE - Coffee (cup)	
+TEA - Tea (cup)	
+COCOA - Cocoa (cup)	
+DECAFCOF - Decaffeinated coffee, herbal tea, or Postum (cup)	
+CAFPEPSI - Caffeinated beverages like Pepsi, Coke, etc (glass or can)	
+PEPSIFRE - Decaffeinated beverages like Pepsi-free, 7 Up, Ginger ale, Root Beer, etc (glass or can)	
+DIETPEPS - Caffeinated low-calorie beverages like Diet Pepsi, Diet Coke, etc. (glass or can)	
+DPEPSFRE - Decaffeinated low-calorie beverages like Diet Pepsi-free, Diet 7 Up, Diet ginger ale, etc (glass or can)	
+BEER - Beer (bottle or can)	
+REDWINE - Red wine or sherry (glass)	
+WITEWINE - White wine (glass)	
+LIQUOR - Liquor or cordial (1 shot)	
+LEMONADE - Hawaiian punch, lemonade, or not carbonated fruit drinks (glass of can)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+PEANTBUT - Peanut butter (tbsp)	
+POPCORN - Popcorn (cup)	
+CHOWDER - Chowder or cream soup (cup)	
+BROTH - Broth soup (cup)	
+SALDDRES - Mayonnaise or creamy salad dressing including 1000 island, russian, creamy italian, blue cheese dressing (tbsp)	
+OIL - Oil-Corn, soy, sunflower etc. except olive oil (tbsp)	
+OLIVEOIL - Olive oil (tbsp)	
+SEEDS - Seeds like sunflower seeds, etc. (oz)	
+WALNUTS - Walnuts (5)	
+NUTSSALT - Other Salted nuts (oz)	
+NUTSUNSL - Other unsalted nuts (oz)	
+CUSTARD - Custard (½ cup)	
+PUDDING - Pudding (½ cup)	
+CHOCOLAT - Chocolate (small bar)	
+OTHRCNDY - Candy without chocolate (small bar)	
+JAMS - Jams, jellies, preserves, syrup (tbsp)	
+WHEATGRM - Wheat germ (tsp)	
+YEAST - Brewer's Yeast (tsp)	
+BRAN - Bran (tsp)	
+WHITSAUC - White or cream sauces (tbsp)	
+TOMSAUC - Tomato sauce (tbsp)	
+GRAVY - Gravy-made from meat (tbsp)	              
+SUGAR - Sugar of honey (tsp)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Bedtime:-                    During the past month, what time subject usually gone to bed at night?	
+SleepOnsetDuration:-        During the past month, how long (in minutes) has it usually taken subject to fall asleep each night?	
+WakeUpTime:-               During the past month, what time does subject usually gotten up in the morning?	
+ActualSleepDuration:-      During the past month, how many hours of actual sleep did subject get at night? (This may be different than the 			   number of hours spent in bed)	
+TroubleSleepingFrequency:- During the past month how often subject had trouble sleeping because subject…
+
+	DifficultyFallingAsleep:- Can't get to sleep within 30 minutes:
+	NighttimeAwakeningsFrequency:- Wake up in the middle of the night or early morning:
+	BathroomAwakeningsFrequency:- Have to get up to use the bathroom:
+	BreathingDifficultyFrequency:- Can't breathe comfortably:
+	LoudCoughOrSnoreFrequency:- Cough or snore loudly
+	FeelingTooColdFrequency:- Feel too cold
+	FeelingTooHotFrequency:- Feel too hot
+	FrequencyOfBadDreams:- Had bad dreams
+	PainFrequency:-       Have pain
+	OtherSleepTroublesDescription:- Other reasons, please describe
+
+
+SleepQualityRating:-       During the past month, how would subject like to rate overall sleep quality?	
+SleepMedicationFrequency:- During the past month, how often subject has taken medicine to help in sleep? (Prescribed or Over the Counter)
+TroubleStayingAwakeFrequency:- During the past month, how often subject had trouble while staying awake while driving, eating meals or 				engaging in social activity?	
+EnthusiasmDifficultyLevel:- During the past month, how much of a problem has it been for subject to keep up enoigh enthusiasm to get things 			    done?	
+BadPartnerOrRoommate:-      Does subject has a bad partner or room mate? 
+PartnerDisturbanceFrequency:- If subject has a room mate or bed partner, ask him/her how often in the past month subject has had.
+
+	Loud snoring:- Loud snoring
+	PausesBetweenBreaths:- Long pauses between breaths while asleep
+	LegTwitchingOrJerking:- Legs twitching or jerking while subject sleep
+	DisorientationDuringSleep:- Episode of disorientation or confusion during sleep
+	OtherRestlessnessDescription:- Other reslessness while subject sleep, please describe
+				
+
